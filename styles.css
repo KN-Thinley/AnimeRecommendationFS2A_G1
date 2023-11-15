@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "DIN";
+    src: url("./static/Font/DIN.ttf") format("truetype");
+}
+
+.font-din{
+    font-family: "DIN";
+}
+
+/* .summary-box {
+    background-color: #2B6CB0;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px;
+} */
+
+/* Style for summary container */
+/* .summary-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+} */
+
+/* Custom font for headers */
+h1 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+}
+
+/* Custom font for summary values */
+p {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+}
+
+.background{
+    background: url("./static/tori.jpg") no-repeat center center fixed;
+}
